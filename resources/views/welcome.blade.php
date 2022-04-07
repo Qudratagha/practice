@@ -130,3 +130,12 @@
         </div>
     </body>
 </html>
+
+<!--MAIL_MAILER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=465
+MAIL_USERNAME=aghakhan6247@gmail.com
+MAIL_PASSWORD=AdeelaArooj0099
+MAIL_ENCRYPTION=ssl
+MAIL_FROM_ADDRESS=aghakhan6247@gmail.com
+MAIL_FROM_NAME="Laravel"-->
